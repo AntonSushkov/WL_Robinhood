@@ -4,4 +4,4 @@ Description:
   Auto-registration of your emails to the whitelist.
 
 Donate:
-  0x51b7f952bf7b34f82e083067ef06dfd7f70eb381 (any evm)
+  0x0000002b721da5723238369e69e4c7cf48ca5f0c (any evm)
